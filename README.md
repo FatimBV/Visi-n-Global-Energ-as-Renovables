@@ -1,5 +1,5 @@
-# Visi-n-Global-Energ-as-Renovables
-Streamlit Energías Renovables
+# Energias-Renovables
+Streamlit informativo Energías Renovables
 <h1 align="center">VISION GLOBAL DE LAS ENERGÍAS RENOVABLES</h1>
 
 <br>
